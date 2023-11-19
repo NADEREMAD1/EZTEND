@@ -66,19 +66,19 @@
               <div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent">
                 <ul id="nav" class="navbar-nav ms-auto">
                   <li class="nav-item">
-                    <a class="page-scroll active" href="#home">Home</a>
+                    <a class="page-scroll text-dark active" href="#home">Home</a>
                   </li>
                   <li class="nav-item">
-                    <a class="page-scroll" href="#features">Features</a>
+                    <a class="page-scroll text-dark" href="#features">Features</a>
                   </li>
                   <li class="nav-item">
-                    <a class="page-scroll" href="#about">About</a>
+                    <a class="page-scroll text-dark" href="#about">About</a>
                   </li>
                   <li class="nav-item">
-                    <a href="javascript:void(0)">Pricing</a>
+                    <a href="javascript:void(0)" class="page-scroll text-dark">Pricing</a>
                   </li>
                   <li class="nav-item">
-                    <a href="javascript:void(0)">Clients</a>
+                    <a href="javascript:void(0)" class="page-scroll text-dark">Clients</a>
                   </li>
                 </ul>
               </div>
