@@ -90,7 +90,7 @@
       </div>
       <div class="col-6 col-lg-6 col-md-6">
 <div class="mester_card w-75 d-flex" style="float:right;">
-  <img src="./assets/img/footer/visa_179457.png" alt="" width="50px" height="25px">
+  <img src="./assets/img/footer/visalogo.jpg" alt="" width="50px" height="25px">
   <img src="./assets/img/footer/masrer.jpg" alt="" width="50px" height="25px">
 </div>
       </div>
